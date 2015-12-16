@@ -27,9 +27,8 @@ The easiest way to get these is to use the [conda](https://store.continuum.io/) 
 I suggest downloading and installing [miniconda](http://conda.pydata.org/miniconda.html).
 
 Once `miniconda` is installed, the following command will install all required packages in your Python environment:
-```
-$ conda install numpy pandas scipy matplotlib scikit-learn ipython-notebook seaborn
-```
+
+    $ conda install numpy pandas scipy matplotlib scikit-learn ipython-notebook seaborn
 
 Alternatively, you can download and install the (very large) Anaconda software distribution, found at https://store.continuum.io/.
 
@@ -37,11 +36,11 @@ Alternatively, you can download and install the (very large) Anaconda software d
 Downloading of the materials is highly recommended by using git.  
 Once git is installed, you can clone the material in this tutorial by using the git address shown above:
 
-    git clone git://github.com/popfido/tutorial_lagou
+    $ git clone git://github.com/popfido/tutorial_lagou
 
 If you can't or don't want to install git, there is a link above to download
 the contents of this repository as a zip file.  Further changes would be making 
-since I may have new idea on its form.
+since I may have new idea on its content.
 
 ## Reference
 This tutorial is partially referred from [sklearn-tutorial, PyCon 2015](https://github.com/jakevdp/sklearn_pycon2015)
